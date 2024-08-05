@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CheckBoxQuestion.cpp
+  LogInPage.cpp
+  MultipleChoiceQuestion.cpp
+  MyForm.cpp
+C:\Users\220009930\source\repos\Project5\MyForm.h(129,36): warning C4677: 'questionBank': signature of non-private member contains assembly private type 'cliext::vector<Q ^>'
+C:\Users\220009930\source\repos\Project5\MyForm.h(129): message : see declaration of 'cliext::vector<Q ^>'
+C:\Users\220009930\source\repos\Project5\MyForm.h(129,36): warning C4677: 'questionBank': signature of non-private member contains assembly private type 'Q'
+C:\Users\220009930\source\repos\Project5\Q.h(10): message : see declaration of 'Q'
+  CreateMultiplechoiceAndChecBoxQuestion.cpp
+  Q.cpp
+  TrueOrFalseQuestion.cpp
+  TypeInQuestion.cpp
+  UserAccount.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  CheckBoxQuestion.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project5.vcxproj -> C:\Users\220009930\source\repos\Project5\x64\Debug\COMP315_Project.exe

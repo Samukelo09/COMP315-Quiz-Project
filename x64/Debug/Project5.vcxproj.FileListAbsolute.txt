@@ -1,0 +1,6 @@
+C:\Users\220009930\source\repos\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\220009930\source\repos\Project5\x64\Debug\Project5.CreateMultiplechoiceAndChecBoxQuestion.resources
+C:\Users\220009930\source\repos\Project5\x64\Debug\Project5.LogInPage.resources
+C:\Users\220009930\source\repos\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\220009930\source\repos\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\220009930\source\repos\Project5\x64\Debug\COMP315_Project.exe
